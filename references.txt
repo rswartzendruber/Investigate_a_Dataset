@@ -1,2 +1,14 @@
 References:
 • Original data from https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+https://pandas.pydata.org/
+https://stackoverflow.com/questions/29648520/how-do-i-add-two-sets
+https://stackoverflow.com/questions/952914/making-a-flat-list-out-of-list-of-lists-in-python
+https://stackoverflow.com/questions/28663856/how-to-count-the-occurrence-of-certain-item-in-an-ndarray-in-python
+https://stackoverflow.com/questions/30522724/take-multiple-lists-into-dataframe
+https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.nlargest.html
+https://matplotlib.org/gallery/ticks_and_spines/ticklabels_rotation.html
+https://stackoverflow.com/questions/17109608/change-figure-size-and-figure-format-in-matplotlib/17109830
+https://chrisalbon.com/python/data_visualization/matplotlib_grouped_bar_plot/
+https://seaborn.pydata.org/tutorial/aesthetics.html
+https://matplotlib.org/users/text_intro.html
